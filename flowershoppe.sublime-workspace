@@ -57,7 +57,7 @@
 			],
 			[
 				"onc",
-				"onclick	Attr"
+				"onclick\tAttr"
 			],
 			[
 				"border",
@@ -141,11 +141,11 @@
 			],
 			[
 				"onkey",
-				"onkeyup	Attr"
+				"onkeyup\tAttr"
 			],
 			[
 				"cl",
-				"class	Attr"
+				"class\tAttr"
 			],
 			[
 				"new",
@@ -173,7 +173,7 @@
 			],
 			[
 				"ac",
-				"action	Attr"
+				"action\tAttr"
 			],
 			[
 				"sel",
@@ -189,7 +189,7 @@
 			],
 			[
 				"c",
-				"class	Attr"
+				"class\tAttr"
 			],
 			[
 				"left",
@@ -568,9 +568,13 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "billl",
+		"last_filter": "flower",
 		"selected_items":
 		[
+			[
+				"flower",
+				"~/Google Drive/Production/FlowerShoppe Website/Version 01/flowershoppe.sublime-project"
+			],
 			[
 				"billl",
 				"~/Google Drive/Production/Project/Billing/Website/myOBS.sublime-project"
