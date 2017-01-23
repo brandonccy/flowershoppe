@@ -568,9 +568,17 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "flower",
+		"last_filter": "Flowershoppe",
 		"selected_items":
 		[
+			[
+				"Flowershoppe",
+				"~/Google Drive/Production/FlowerShoppe Website/Version 01/flowershoppe.sublime-project"
+			],
+			[
+				"Flower",
+				"~/Google Drive/Production/FlowerShoppe Website/Version 01/flowershoppe.sublime-project"
+			],
 			[
 				"flower",
 				"~/Google Drive/Production/FlowerShoppe Website/Version 01/flowershoppe.sublime-project"
@@ -590,10 +598,6 @@
 			[
 				"",
 				"~/Google Drive/Production/09 Accounting System/Sublime/AccountAWS.sublime-project"
-			],
-			[
-				"Flower",
-				"~/Google Drive/Production/FlowerShoppe Website/flowershoppe.sublime-project"
 			],
 			[
 				"ubold",
